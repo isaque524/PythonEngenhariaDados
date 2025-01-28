@@ -55,4 +55,4 @@ def game():
 
 if __name__ == "__main__":
     game()
-    print("\nParabens. e bla bla bla bla. :)\n")
+    print("\nParabens. :)\n")
